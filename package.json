@@ -1,0 +1,19 @@
+{
+  "name": "webpack-dev-serve-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinHe322/webpack-dev-serve-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavinHe322/webpack-dev-serve-demo/issues"
+  },
+  "homepage": "https://github.com/GavinHe322/webpack-dev-serve-demo#readme"
+}
