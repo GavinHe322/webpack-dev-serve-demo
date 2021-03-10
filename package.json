@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "node bin/webpack-dev-server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/GavinHe322/webpack-dev-serve-demo/issues"
   },
-  "homepage": "https://github.com/GavinHe322/webpack-dev-serve-demo#readme"
+  "homepage": "https://github.com/GavinHe322/webpack-dev-serve-demo#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "html-webpack-plugin": "^4.5.0",
+    "memory-fs": "^0.5.0",
+    "mime": "^2.4.6",
+    "socket.io": "^2.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
 }
